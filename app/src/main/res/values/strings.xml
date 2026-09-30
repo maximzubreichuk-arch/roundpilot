@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name" translatable="false">RoundPilot</string>
+
+    <!-- Common -->
+    <string name="back">Back</string>
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+    <string name="resume">RESUME</string>
+    <string name="skip">SKIP</string>
+    <string name="stop">STOP</string>
+    <string name="done">DONE</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete">DELETE</string>
+
+    <!-- Timer -->
+    <string name="work">WORK</string>
+    <string name="rest">REST</string>
+    <string name="rounds">ROUNDS</string>
+    <string name="get_ready">GET READY</string>
+    <string name="cooldown">COOLDOWN</string>
+
+    <!-- Home -->
+    <string name="quick_presets">Quick Presets</string>
+    <string name="no_presets_yet">No presets yet</string>
+    <string name="add_preset">Add preset</string>
+    <string name="home_tagline">Simple. Focused. Stronger every day.</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="sound">Sound</string>
+    <string name="vibration">Vibration</string>
+    <string name="countdown">Countdown sound</string>
+    <string name="keep_screen_awake">Keep screen awake</string>
+    <string name="appearance">Appearance</string>
+    <string name="language">Language</string>
+    <string name="about">About</string>
+
+    <string name="system">System</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+
+    <string name="english">English</string>
+    <string name="russian">Русский</string>
+
+    <!-- Vibration -->
+    <string name="vibration_test_message">Test vibration sent. Check your phone vibration settings if you do not feel it.</string>
+
+    <!-- Preset -->
+    <string name="new_preset">New Preset</string>
+    <string name="name">Name</string>
+    <string name="get_ready_setting">Get Ready</string>
+    <string name="cooldown_setting">Cooldown</string>
+
+    <!-- Workout -->
+    <string name="paused">PAUSED</string>
+    <string name="complete">COMPLETE</string>
+    <string name="nice_work">Nice work!</string>
+    <string name="round_format">ROUND %1$d / %2$d</string>
+
+    <!-- Accessibility / content descriptions -->
+    <string name="settings_content_description">Settings</string>
+    <string name="add_preset_content_description">Add preset</string>
+    <string name="start_preset_content_description">Start %1$s</string>
+    <string name="edit_preset_content_description">Edit %1$s</string>
+    <string name="delete_preset_content_description">Delete %1$s</string>
+
+    <!-- Dialogs -->
+    <string name="delete_preset_title">Delete preset?</string>
+    <string name="delete_preset_message">%1$s will be deleted.</string>
+    <string name="preset_limit_title">Preset limit reached</string>
+    <string name="preset_limit_message">Up to 5 presets are available.
+Pro version with more features is coming soon.</string>
+    <string name="ok">OK</string>
+
+    <string name="edit_preset_title">Edit Preset</string>
+    <string name="maximum_presets_reached">Maximum 5 presets reached.</string>
+    <string name="delete_preset_before_creating">Delete an existing preset before creating a new one.</string>
+    <string name="back_to_presets">Back to Presets</string>
+    <string name="work_setting">Work</string>
+    <string name="rest_setting">Rest</string>
+    <string name="rounds_setting">Rounds</string>
+    <string name="my_preset">My Preset</string>
+    <string name="save_changes">SAVE CHANGES</string>
+
+
+    <string name="workout_complete">WORKOUT COMPLETE</string>
+    <string name="rounds_result">ROUNDS</string>
+    <string name="total_time">TOTAL TIME</string>
+    <string name="great_job">Great job!</string>
+    <string name="keep_going">Keep going.</string>
+    <string name="workout_complete_content_description">Workout complete</string>
+
+    <string name="presets">Presets</string>
+    <string name="start_preset_accessibility">Start %1$s</string>
+    <string name="edit_preset_accessibility">Edit %1$s</string>
+    <string name="delete_preset_accessibility">Delete %1$s</string>
+
+    <string name="work_seconds_format">%1$ds work</string>
+    <string name="rest_seconds_format">%1$ds rest</string>
+    <string name="rounds_format">%1$d rounds</string>
+    <string name="get_ready_seconds_format">%1$ds get ready</string>
+    <string name="cooldown_seconds_format">%1$ds cooldown</string>
+
+    <!-- Exact alarm permission -->
+    <string name="exact_alarm_permission_title">Alarms &amp; reminders</string>
+
+    <string name="exact_alarm_permission_message">
+    RoundPilot needs permission to schedule exact alarms so workout phases can change on time when the app is in the background or the screen is off.
+</string>
+
+    <string name="allow">Allow</string>
+
+    <string name="timer_running">Timer is running</string>
+
+
+</resources>

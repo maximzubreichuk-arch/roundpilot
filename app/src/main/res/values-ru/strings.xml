@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common -->
+    <string name="back">Назад</string>
+    <string name="start">СТАРТ</string>
+    <string name="pause">ПАУЗА</string>
+    <string name="resume">ПРОДОЛЖИТЬ</string>
+    <string name="skip">ПРОПУСТИТЬ</string>
+    <string name="stop">СТОП</string>
+    <string name="done">ГОТОВО</string>
+    <string name="save">СОХРАНИТЬ</string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="delete">УДАЛИТЬ</string>
+
+    <!-- Timer -->
+    <string name="work">РАБОТА</string>
+    <string name="rest">ОТДЫХ</string>
+    <string name="rounds">РАУНДЫ</string>
+    <string name="get_ready">ПРИГОТОВЬТЕСЬ</string>
+    <string name="cooldown">ВОССТАНОВЛЕНИЕ</string>
+
+    <!-- Home -->
+    <string name="quick_presets">Быстрые пресеты</string>
+    <string name="no_presets_yet">Пресетов пока нет</string>
+    <string name="add_preset">Добавить пресет</string>
+    <string name="home_tagline">Просто. Понятно. Становись сильнее каждый день.</string>
+
+    <!-- Settings -->
+    <string name="settings">Настройки</string>
+    <string name="sound">Звук</string>
+    <string name="vibration">Вибрация</string>
+    <string name="countdown">Звук обратного отсчёта</string>
+    <string name="keep_screen_awake">Не выключать экран</string>
+    <string name="appearance">Оформление</string>
+    <string name="language">Язык</string>
+    <string name="about">О приложении</string>
+
+    <string name="system">System</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+
+    <string name="english">English</string>
+    <string name="russian">Русский</string>
+
+    <!-- Vibration -->
+    <string name="vibration_test_message">Тест вибрации отправлен. Если вы не чувствуете вибрацию, проверьте настройки вибрации телефона.</string>
+
+    <!-- Preset -->
+    <string name="new_preset">Новый пресет</string>
+    <string name="name">Название</string>
+    <string name="get_ready_setting">Приготовьтесь</string>
+    <string name="cooldown_setting">Восстановление</string>
+
+    <!-- Workout -->
+    <string name="paused">ПАУЗА</string>
+    <string name="complete">ЗАВЕРШЕНО</string>
+    <string name="nice_work">Отличная работа!</string>
+    <string name="round_format">РАУНД %1$d / %2$d</string>
+
+    <!-- Accessibility / content descriptions -->
+    <string name="settings_content_description">Настройки</string>
+    <string name="add_preset_content_description">Добавить пресет</string>
+    <string name="start_preset_content_description">Запустить %1$s</string>
+    <string name="edit_preset_content_description">Изменить %1$s</string>
+    <string name="delete_preset_content_description">Удалить %1$s</string>
+
+    <!-- Dialogs -->
+    <string name="delete_preset_title">Удалить пресет?</string>
+    <string name="delete_preset_message">%1$s будет удалён.</string>
+    <string name="preset_limit_title">Достигнут лимит пресетов</string>
+    <string name="preset_limit_message">Можно сохранить до 5 пресетов.
+    Больше возможностей скоро появится в Pro-версии.</string>
+    <string name="ok">ОК</string>
+
+    <string name="edit_preset_title">Редактирование пресета</string>
+    <string name="maximum_presets_reached">Достигнут максимум: 5 пресетов.</string>
+    <string name="delete_preset_before_creating">Удалите существующий пресет, прежде чем создавать новый.</string>
+    <string name="back_to_presets">Назад к пресетам</string>
+    <string name="work_setting">Работа</string>
+    <string name="rest_setting">Отдых</string>
+    <string name="rounds_setting">Раунды</string>
+    <string name="my_preset">Мой пресет</string>
+    <string name="save_changes">СОХРАНИТЬ ИЗМЕНЕНИЯ</string>
+
+    <string name="workout_complete">ТРЕНИРОВКА ЗАВЕРШЕНА</string>
+    <string name="rounds_result">РАУНДЫ</string>
+    <string name="total_time">ОБЩЕЕ ВРЕМЯ</string>
+    <string name="great_job">Отличная работа!</string>
+    <string name="keep_going">Продолжай в том же духе.</string>
+    <string name="workout_complete_content_description">Тренировка завершена</string>
+
+    <string name="presets">Пресеты</string>
+    <string name="start_preset_accessibility">Запустить %1$s</string>
+    <string name="edit_preset_accessibility">Изменить %1$s</string>
+    <string name="delete_preset_accessibility">Удалить %1$s</string>
+
+    <string name="work_seconds_format">%1$d сек. работа</string>
+    <string name="rest_seconds_format">%1$d сек. отдых</string>
+    <string name="rounds_format">%1$d раундов</string>
+    <string name="get_ready_seconds_format">%1$d сек. приготовьтесь</string>
+    <string name="cooldown_seconds_format">%1$d сек. восстановление</string>
+
+    <!-- Exact alarm permission -->
+    <string name="exact_alarm_permission_title">
+    Будильники и напоминания
+</string>
+
+    <string name="exact_alarm_permission_message">
+    RoundPilot нужен доступ к точным будильникам, чтобы этапы тренировки переключались вовремя, когда приложение работает в фоне или экран выключен.
+</string>
+
+    <string name="allow">Разрешить</string>
+
+    <string name="timer_running">Таймер запущен</string>
+
+</resources>
